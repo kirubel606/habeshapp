@@ -1,3 +1,5 @@
+/*This is where all the server routing is done
+
 
 const {Router} = require("express");
 
